@@ -38,77 +38,7 @@
 </head>
 
 <body>
-
-
-  <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:okinawakaratepakistan@gmail.com">okinawakaratepakistan@gmail.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+92331 6435159</span></i>
-      </div>
-      <div class="social-links d-none d-md-flex align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-      </div>
-    </div>
-  </section>
-  <section id="topbar" class="d-flex align-items-center" style="background: white;">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="align-items-center" style="margin: 0px auto;">
-        <img src="assets/img/ikga_logo.png" class="img-fluid text-center" style="height: 180px;">
-      </div>
-      
-    </div>
-  </section>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-between">
-
-      
-
-      <nav id="navbar" class="navbar" style="margin: 0px auto;">
-        <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li class="dropdown"><a href="#"><span>Affiliation</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Our Affiliates</a></li>
-              <li><a href="#">Join/Register With Us</a></li>
-              <li><a href="#">Procedures</a></li>
-              <li><a href="pricing.html">Fee/Membership</a></li>
-              
-            </ul>
-          </li>
-        
-          <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="tournament.html">Tournaments and Events</a></li>
-          <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="portfolio.html">Photos</a></li>
-              <li><a href="#">Videos</a></li>
-              
-            </ul>
-          </li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>TV</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Podcast</a></li>
-              <li><a href="#">Vlog</a></li>
-              
-            </ul>
-          </li>
-          
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-    </div>
-  </header><!-- End Header -->
+<?php include('header.php'); ?>
 
   <main id="main">
 
@@ -117,10 +47,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portolio</h2>
+          <h2>Gallery</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Portolio</li>
+            <li><a href="portfolio.php">Gallery</a></li>
+            <li>Photos</li>
           </ol>
         </div>
 
@@ -254,7 +184,7 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Affiliation</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="tournament.html">Tournaments</a></li>

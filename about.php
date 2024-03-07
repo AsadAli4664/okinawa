@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Services - Flattern Bootstrap Template</title>
+  <title>About - Okinawan</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -38,77 +38,7 @@
 </head>
 
 <body>
-
-
-  <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:okinawakaratepakistan@gmail.com">okinawakaratepakistan@gmail.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+92331 6435159</span></i>
-      </div>
-      <div class="social-links d-none d-md-flex align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-      </div>
-    </div>
-  </section>
-  <section id="topbar" class="d-flex align-items-center" style="background: white;">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="align-items-center" style="margin: 0px auto;">
-        <img src="assets/img/ikga_logo.png" class="img-fluid text-center" style="height: 180px;">
-      </div>
-      
-    </div>
-  </section>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-between">
-
-      
-
-      <nav id="navbar" class="navbar" style="margin: 0px auto;">
-        <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li class="dropdown"><a href="#"><span>Affiliation</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Our Affiliates</a></li>
-              <li><a href="#">Join/Register With Us</a></li>
-              <li><a href="#">Procedures</a></li>
-              <li><a href="pricing.html">Fee/Membership</a></li>
-              
-            </ul>
-          </li>
-        
-          <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="tournament.html">Tournaments and Events</a></li>
-          <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="portfolio.html">Photos</a></li>
-              <li><a href="#">Videos</a></li>
-              
-            </ul>
-          </li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>TV</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Podcast</a></li>
-              <li><a href="#">Vlog</a></li>
-              
-            </ul>
-          </li>
-          
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-    </div>
-  </header><!-- End Header -->
+<?php include('header.php'); ?>
 
   <main id="main">
 
@@ -117,71 +47,104 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Services</h2>
+          <h2>About Us</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Services</li>
+            <li><a href="index.php">Home</a></li>
+            <li>About Us</li>
           </ol>
         </div>
 
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <!-- ======= About Us Section ======= -->
+    <section id="about-us" class="about-us">
       <div class="container">
-        <div class="section-title" data-aos="fade-up">
-          <h2> <strong>Services</strong> we do provide</h2>
-          <p>At OTKUP, we offer a comprehensive range of services tailored to meet the diverse needs of Karate enthusiasts:.</p>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-md-6">
-            <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">Multi Style Training:</a></h4>
-              <p class="description">Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. Every style will be taught by the expert of each style separately in different classes.</p>
-            </div>
+
+        <div class="row no-gutters">
+          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right">
+            <img src="assets/img/downloads/about1.jpeg" class="img-fluid">
           </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Classes and Schedule & Specialized Training: </a></h4>
-              <p class="description">Different classes shall be provided in different timing and schedules and home coaching also can be provided for personal trainings as per customized need.
-                Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter.  
-                </p>
-            </div>
+          <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
+            <div class="content">
+              <h3 data-aos="fade-up">About Us</h3>
+              <p data-aos="fade-up">
+                We are in the field of Karate since 1993.We started our journey from ShotoKan Karate as it is widely practicing style in Pakistan. After a quite few years an experienced instructor of Shito-Ryu and Gujo-Ryu join us and we started our journey together in 1996.
+               </p>
+               <p data-aos="fade-up"> It is a great problem that Karate practitioner are scattered in different styles and could not feel comfortable to learn Karate of their own interest under a same banner.To keep this handicap inconsideration we aims to resolve the differences and provide one roof to each styles to train separately but grow together under the hormonal environment .
+               </p>
+               <p data-aos="fade-up"> We are lucky enough that the idea is being foster by the globally recognized international and world class organizations of all kinds of Karate who provided us affiliations to develop and grow internationally.   
+                
+              </p>
+            
+            </div><!-- End .content-->
           </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">Seminars and Workshops:</a></h4>
-              <p class="description">We often organized special training camps to meet the standards of the art under the banner of 
-                “Train with Champions and Masters”
-                </p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi-brightness-high"></i></div>
-              <h4 class="title"><a href="">Regular Grading and Ranking Systems:</a></h4>
-              <p class="description">Advance your skills and progress through our structured ranking system.
-                We provide regular grading mechanism through foreign senior ranking master.
-                We shall provide globally recognized certifications of each style. 
-                </p>
-            </div>
-          </div>
-          
-          
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End About Us Section -->
 
     
+<!-- ======= Our Team Section ======= -->
+<section id="team" class="team section-bg" style="padding: 20px 0;">
+  <div class="container">
+
+
+    <div class="row" data-aos="fade-up">
+      <h2 style="text-align: center;">Our <strong>Management</strong></h2>
+      <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up">
+          <div class="member-img">
+            <img src="assets/img/team/team-a.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h3>Mr. Kashif Ali Bhatti </h3>
+            <h4>President </h4>
+            <span>Former National Karate Champion & Renowned Junior Coach 
+              Okinawa Traditional Karate Union of Pakistan </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="assets/img/team/team-c.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h3>Mrs. Shazia Kashif </h3>
+            <h4>Director Finance & Incharge Women Division </h4>
+            <span>Former National Karate Champion & Renowned Junior Coach 
+              Okinawa Traditional Karate Union of Pakistan </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+   
+      </div>
+
+   
+
+    </div>
+
+  </div>
+</section><!-- End Our Team Section -->
 
   </main><!-- End #main -->
 
-<!-- ======= Footer ======= -->
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
@@ -204,7 +167,7 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Affiliation</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="tournament.html">Tournaments</a></li>
