@@ -123,7 +123,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #fff;
+  background: #fdb913;
 }
 
 #header.fixed-top {
@@ -175,7 +175,9 @@ h6 {
 }
 
 .navbar li {
+  
   position: relative;
+  font-size: 1.5rem;
 }
 
 .navbar a,
@@ -198,11 +200,25 @@ h6 {
   margin-left: 5px;
 }
 
+
 .navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #f03c02;
+  font-size: 1rem;
+  color: #2b2320;
+  padding-left: 45px;
+  font-weight: 600;
+}
+
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus,
+.navbar li>a {
+  font-size: 1rem;
+  color: #343a40;
+  padding-left: 45px;
+  font-weight: 600;
 }
 
 .navbar .getstarted,
@@ -241,14 +257,14 @@ h6 {
 
 .navbar .dropdown ul a {
   padding: 10px 20px;
-  font-size: 13px;
   text-transform: none;
-  font-weight: 500;
-  color: #581601;
+  font-size: 1rem;
+  color: #343a40;
+  font-weight: 600;
 }
 
 .navbar .dropdown ul a i {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .navbar .dropdown ul a:hover,
