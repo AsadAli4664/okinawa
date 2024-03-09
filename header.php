@@ -16,7 +16,7 @@
   <section id="topbar" class="d-flex align-items-center" style="background: white;">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="align-items-center" style="margin: 0px auto;">
-        <img src="assets/img/ikga_logo.png" class="img-fluid text-center" style="height: 180px;">
+        <img src="assets/img/logo.png" class="img-fluid text-center">
       </div>
       
     </div>
