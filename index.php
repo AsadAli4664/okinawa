@@ -61,7 +61,7 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/downloads/about1.jpeg);">
+        <div class="carousel-item" style="background-image: url(assets/img/downloads/slider2.jpeg);">
           <div class="carousel-container">
             <!-- <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Lorem Ipsum Dolor</h2>
