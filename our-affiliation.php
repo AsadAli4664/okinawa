@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - Flattern Bootstrap Template</title>
+  <title>About - Flattern Bootstrap Template</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -38,7 +38,9 @@
 </head>
 
 <body>
+
 <?php include('header.php'); ?>
+
 
   <main id="main">
 
@@ -47,69 +49,59 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portfolio Details</h2>
+          <h2>Our Affiliation</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Portfolio Details</li>
+            <li>Our Affiliation</li>
           </ol>
         </div>
 
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= Portfolio Details Section ======= -->
-    <section id="portfolio-details" class="portfolio-details">
+    <section id="clients" class="clients">
       <div class="container">
 
-        <div class="row gy-4">
+        <div class="section-title" data-aos="fade-up">
+          <h2>Our <strong>Affiliation</strong></h2>
+          <p>"Join forces with Okinawa Karate, where tradition and excellence unite to forge champions."
+"Elevate your brand by affiliating with Okinawa Karate, a symbol of authentic martial arts mastery."</p>
+        </div>
 
-          <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
+        <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
 
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-3.jpg" alt="">
-                </div>
-
-              </div>
-              <div class="swiper-pagination"></div>
+          <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/1.png" class="img-fluid" alt="">
             </div>
           </div>
 
-          <div class="col-lg-4">
-            <div class="portfolio-info">
-              <h3>Project information</h3>
-              <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
-              </ul>
-            </div>
-            <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
-              <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
+          <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/2.png" class="img-fluid" alt="">
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/img/clients/3.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          
+
+         
 
         </div>
 
       </div>
-    </section><!-- End Portfolio Details Section -->
+    </section><!-- End Our Clients Section -->
+
+   
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+
   <?php include('footer.php'); ?>
 
 </body>
