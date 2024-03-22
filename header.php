@@ -34,7 +34,7 @@
             <ul>
               <li><a href="our-affiliation.php">Our Affiliation</a></li>
               <li><a href="our-affiliates.php">Our Affiliates</a></li>
-              <li><a href="#">Join Us</a></li>
+              <li><a href="join-us.php">Join Us</a></li>
               <!-- <li><a href="#">Procedures</a></li>
               <li><a href="pricing.php">Fee/Membership</a></li> -->
               

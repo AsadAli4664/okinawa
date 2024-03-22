@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog Single - Flattern Bootstrap Template</title>
+  <title>Blog Single - Okinawa Karate</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -64,6 +64,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
+
+        <div class="col-lg-2"></div>
 
           <div class="col-lg-8 entries">
 
@@ -282,9 +284,9 @@
 
           </div><!-- End blog entries list -->
 
-          <div class="col-lg-4">
+          <div class="col-lg-2">
 
-            <div class="sidebar">
+            <!-- <div class="sidebar">
 
               <h3 class="sidebar-title">Search</h3>
               <div class="sidebar-item search-form">
@@ -292,7 +294,7 @@
                   <input type="text">
                   <button type="submit"><i class="bi bi-search"></i></button>
                 </form>
-              </div><!-- End sidebar search formn-->
+              </div>
 
               <h3 class="sidebar-title">Categories</h3>
               <div class="sidebar-item categories">
@@ -304,7 +306,7 @@
                   <li><a href="#">Creative <span>(8)</span></a></li>
                   <li><a href="#">Educaion <span>(14)</span></a></li>
                 </ul>
-              </div><!-- End sidebar categories-->
+              </div>
 
               <h3 class="sidebar-title">Recent Posts</h3>
               <div class="sidebar-item recent-posts">
@@ -338,7 +340,10 @@
                   <time datetime="2020-01-01">Jan 1, 2020</time>
                 </div>
 
-              </div><!-- End sidebar recent posts-->
+              </div>
+              
+              
+           
 
               <h3 class="sidebar-title">Tags</h3>
               <div class="sidebar-item tags">
@@ -355,9 +360,11 @@
                   <li><a href="#">Tips</a></li>
                   <li><a href="#">Marketing</a></li>
                 </ul>
-              </div><!-- End sidebar tags-->
+              </div>
 
-            </div><!-- End sidebar -->
+            </div> -->
+            
+            <!-- End sidebar -->
 
           </div><!-- End blog sidebar -->
 
