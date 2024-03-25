@@ -70,9 +70,9 @@
 
             <article class="entry">
 
-              <div class="entry-img">
+              <!-- <div class="entry-img">
                 <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
-              </div>
+              </div> -->
               <h3 class="entry-title">
                 <a href="blog-single.php">Choosing Your Path in Karate </a>
               </h3>
@@ -102,9 +102,9 @@
 
             <article class="entry">
 
-              <div class="entry-img">
+              <!-- <div class="entry-img">
                 <img src="assets/img/blog/blog-2.jpg" alt="" class="img-fluid">
-              </div>
+              </div> -->
 
               <h2 class="entry-title">
                 <a href="blog-single2.php">Unveiling the Karate Trinity: Shotokan vs. Shito-ryu vs. Goju-ryu - A Deep Dive</a>
