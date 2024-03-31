@@ -168,7 +168,7 @@ if (isset($_POST['submit'])) {
         $mail->Port       = 465;
 
         $mail->setFrom("$email", "$email");
-        $mail->addAddress('asadali4664@gmail.com', 'okinawakaratepakistan');
+        $mail->addAddress('okinawakaratepakistan@gmail.com', 'okinawakaratepakistan');
 
         $mail->isHTML(true);
         $mail->Subject = "Sender Subject - $subject";
