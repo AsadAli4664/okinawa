@@ -5,15 +5,15 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-lg-3 col-md-6 footer-contact">
+      <div class="col-lg-4 col-md-6 footer-contact">
         <h3>OTKUP</h3>
         <p>
          At OTKUP, we offer a comprehensive
           range of services tailored to meet
            the diverse needs of Karate enthusiasts:
-          United States <br><br>
-          <strong>Phone:</strong> +92331 6435159<br>
-          <strong>Email:</strong> okinawakaratepakistan@gmail.com<br>
+         <br>
+         We are in the field of Karate since 1993. We started our journey from ShotoKan Karate as it is widely practicing style in Pakistan.
+         
         </p>
       </div>
 
@@ -21,30 +21,29 @@
         <h4>Useful Links</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Affiliation</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="tournament.html">Tournaments</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="portfolio.html">Gallery</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="our-affiliates.php">Our Affiliates</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="our-affiliation.php">Our Affiliation</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="portfolio.php">Gallery</a></li>
         </ul>
       </div>
 
-      <div class="col-lg-3 col-md-6 footer-links">
+      <div class="col-lg-2 col-md-6 footer-links">
         <h4>Okinawa Members</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Join Okinawan</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Fees</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Procedure</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="tournament.html">Events</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="services.html">Services</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="join-us.php">Join Okinawan</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="blog.php">Blog</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="tournament.php">Events</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact Us</a></li>
         </ul>
       </div>
 
       <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4>Join Our Newsletter</h4>
-        <p>Enter your email address to get Newsletter</p>
-        <form action="" method="post">
-          <input type="email" name="email"><input type="submit" value="Subscribe">
-        </form>
+        <h4>Contact US</h4>
+    <p>    <strong>Phone:</strong> +92331 6435159</p>
+    <p>     <strong>Email:</strong> okinawakaratepakistan@gmail.com </p> 
+    <p>     <strong>Street no 22, Gulistan colony Allama Iqbal Road Lahore</strong> </p>
       </div>
 
     </div>
@@ -62,7 +61,7 @@
       <!-- You can delete the links only if you purchased the pro version. -->
       <!-- Licensing information: https://bootstrapmade.com/license/ -->
       <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/ -->
-      Designed by <a href="">Puretech</a>
+      Designed by <a href="">HamTechSol</a>
     </div>
   </div>
   <div class="social-links text-center text-md-right pt-3 pt-md-0">
@@ -84,6 +83,8 @@
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
