@@ -18,8 +18,11 @@
       <div class="align-items-center" style="margin: 0px auto;">
         <img src="assets/img/logo.png" class="img-fluid text-center">
       </div>
-      <div class="align-items-center col-lg-9" style="margin: 0px auto;">
+      <div class="align-items-center col-lg-9 d-none d-sm-block" style="margin: 0px auto;">
         <img src="assets/img/font.PNG" class="img-fluid text-center mt-4">
+      </div>
+      <div class="align-items-center col-lg-9 d-block d-sm-none" style="margin: 0px auto;">
+        <img src="assets/img/font.PNG" class="img-fluid text-center mt-3">
       </div>
 
       
