@@ -598,7 +598,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #2b2320;
+  background: #15963a;
   min-height: 40px;
 }
 
@@ -714,7 +714,7 @@ section {
   margin-bottom: 25px;
   text-align: center;
   border: 1px solid #ebe6e4;
-  height: 200px;
+  height: 220px;
   position: relative;
   background: #faf9f8;
 }

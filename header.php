@@ -18,6 +18,10 @@
       <div class="align-items-center" style="margin: 0px auto;">
         <img src="assets/img/logo.png" class="img-fluid text-center">
       </div>
+      <div class="align-items-center col-lg-9" style="margin: 0px auto;">
+        <img src="assets/img/font.PNG" class="img-fluid text-center mt-4">
+      </div>
+
       
     </div>
   </section>

@@ -64,28 +64,24 @@
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
               <h4 class="title"><a href="">Multi Style Training:</a></h4>
-              <p class="description">Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. Every style will be taught by the expert of each style separately in different timing and classes.  Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter.</p>
+              <p class="description">Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. Every style will be taught by the expert of each style separately in different classes.</p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Customize, Private & Home Coaching: </a></h4>
-              <p class="description"> We offer customized training at your home which is tailor made as you need and requirement. 
-You may become only kumite expert or
-You may become a KATA player or
-You wish to learn karate for self defense or
-You wish to become a fit looking person 
+              <h4 class="title"><a href="">Classes and Schedule & Specialized Training: </a></h4>
+              <p class="description">Different classes shall be provided in different timing and schedules and home coaching also can be provided for personal trainings as per customized need.
+                Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter.  
                 </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">National & international championships & trending seminar:</a></h4>
-              <p class="description">We organize championships at District, Regional & National levels. 
-We offer the highest achiever to participate at continental & world level of sports Karate championship abroad
-We impart our students in international karate training seminars under the renowned world class karate masters
+              <h4 class="title"><a href="">Seminars and Workshops:</a></h4>
+              <p class="description">We often organized special training camps to meet the standards of the art under the banner of 
+                “Train with Champions and Masters”
                 </p>
             </div>
           </div>
@@ -95,7 +91,7 @@ We impart our students in international karate training seminars under the renow
               <h4 class="title"><a href="">Regular Grading and Ranking Systems:</a></h4>
               <p class="description">Advance your skills and progress through our structured ranking system.
                 We provide regular grading mechanism through foreign senior ranking master.
-                We shall provide globally recognized certifications of each style.
+                We shall provide globally recognized certifications of each style. 
                 </p>
             </div>
           </div>
