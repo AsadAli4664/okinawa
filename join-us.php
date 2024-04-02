@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Pricing - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Join Okinawan Karate in Pakistan: Classes, Training, Membership</title>
+  <meta content="Ready to embark on your journey with Okinawan Karate in Pakistan? Join our dynamic community of martial arts enthusiasts and experience the rich tradition and discipline of authentic karate. Whether you're a beginner or an experienced practitioner, our karate classes and training programs cater to all skill levels. Unlock your potential, enhance your physical fitness, and cultivate mental strength under the guidance of our experienced instructors. Discover the benefits of membership and start your karate journey with us today!" name="description">
+  <meta content="join okinawan karate, karate classes, karate training, karate membership, join karate dojo, karate school membership, okinawan karate in pakistan, karate practitioners, martial arts enthusiasts" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Our Affiliates - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="Okinawa Karate" name="keywords">
+  <title>Our Affiliates | Okinawan Karate in Pakistan</title>
+  <meta content="Join our affiliate program and spread the spirit of Okinawan Karate worldwide. Contact us to learn more about joining our network and contributing to the advancement of karate in Pakistan." name="description">
+  <meta content="okinawan karate affiliates, karate partners, martial arts collaborators, karate sponsorships, affiliate organizations, karate alliances, okinawan karate in pakistan affiliates, karate partnerships, karate network, karate collaboration opportunities" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

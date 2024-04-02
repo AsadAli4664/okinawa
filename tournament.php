@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>News - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Okinawan Karate News, Tournaments and Events in Pakistan: Stay Updated</title>
+  <meta content="Explore upcoming Okinawan Karate tournaments and events in Pakistan. Stay updated on competitions, seminars, and special events hosted by our dojo. Join us for thrilling competitions and enriching experiences in the world of traditional martial arts." name="description">
+  <meta content="Okinawan Karate Pakistan, Karate Tournaments, Karate Events, Martial Arts Competitions Pakistan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

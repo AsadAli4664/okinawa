@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contact - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Contact Okinawan Karate in Pakistan: Reach Out for Inquiries and Information</title>
+  <meta content="Have questions or inquiries about Okinawan Karate in Pakistan? Reach out to us today! " name="description">
+  <meta content="Okinawan Karate Pakistan, Contact Us, Karate Classes Inquiry, Karate Instructors Pakistan, Get in Touch" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -75,9 +75,9 @@
                 <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Location:</h4>
-                  <p>Street no 22, Gulistan colony Allama Iqbal Road Lahore</p>
+                  <p>Dojo: Street no 22, Gulistan colony Allama Iqbal Road Lahore</p>
                   <i class="bi bi-geo-alt"></i>
-                  <p>Al-Muzamil colony, 48 Multan Road Lahore</p>
+                  <p>Office: Al-Muzamil colony, 48 Multan Road Lahore</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">

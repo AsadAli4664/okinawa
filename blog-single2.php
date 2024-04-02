@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Blog Single - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Unveiling the Karate Trinity: Shotokan vs. Shito-ryu vs. Goju-ryu - A Deep Div" name="description">
+  <meta content="Okinawan Karate, Shotokan Karate, Shito-ryu Karate, Goju-ryu Karate, Karate Styles, Karate Comparison, Karate History" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

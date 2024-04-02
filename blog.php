@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Okinawan Karate Blog: Explore Insights, Tips, and Stories from Pakistan</title>
+  <meta content="Dive into our Okinawan Karate blog for a wealth of insights, tips, and inspiring stories from the world of Karate in Pakistan. Explore articles written by our experts, covering everything from training techniques and self-defense tips to the rich history and philosophy of Okinawan Karate. Enhance your knowledge and passion for martial arts with our engaging content." name="description">
+  <meta content="Okinawan Karate Pakistan, Karate Blog, Martial Arts Tips, Karate Stories, Karate Insights Pakistan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

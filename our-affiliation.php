@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Our Affiliation - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Our Affiliation | Okinawan Karate in Pakistan: Partnerships & Collaborations</title>
+  <meta content="Explore our affiliation with renowned Okinawan Karate organizations in Pakistan. As a member of these esteemed associations, we uphold the highest standards of karate training and promote the values of discipline, respect, and excellence. Join our karate family and benefit from our affiliation's resources, training programs, and networking opportunities. Contact us now to learn more about affiliating with Okinawan Karate in Pakistan and become a part of our thriving martial arts community." name="description">
+  <meta content="okinawan karate affiliation, karate association, karate federation, martial arts affiliation, karate organization, karate affiliation in pakistan, karate affiliation benefits, karate affiliation criteria, affiliate with okinawan karate, join karate association" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

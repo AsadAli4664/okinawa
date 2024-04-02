@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio - Okinawa Karate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Okinawan Karate in Pakistan: Explore our Image Gallery</title>
+  <meta content="Step into the world of Okinawan Karate in Pakistan through our captivating image gallery. Browse through stunning visuals showcasing our karate classes, training sessions, instructors, and events. Get inspired to join us on the path to mastering this ancient martial art form!" name="description">
+  <meta content="Okinawan Karate Pakistan, Image Gallery, Karate Photos, Karate Training, Karate Instructors Pakistan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

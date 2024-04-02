@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Okinawan Karate in Pakistan</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>Okinawan Karate Classes in Pakistan: Learn Traditional Techniques</title>
+  <meta content="Discover the essence of Okinawan Karate in Pakistan. Join our classes to learn traditional techniques passed down through generations. Our experienced instructors will guide you on your journey to mastering this ancient martial art form. Start your training today!" name="description">
+  <meta content="Okinawan Karate Pakistan, Karate Classes, Traditional Karate Techniques, Okinawan Martial Arts, Karate Instructors Pakistan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

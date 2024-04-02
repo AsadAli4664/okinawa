@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About - Okinawan</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>About Okinawan Karate in Pakistan: Our Vision and Mission</title>
+  <meta content="Learn about our journey and mission at Okinawan Karate in Pakistan. Discover the passion behind our commitment to preserving and teaching authentic Okinawan Karate techniques in Pakistan. Meet our dedicated instructors and explore our commitment to providing high-quality karate classes for all ages and skill levels." name="description">
+  <meta content="Okinawan Karate Pakistan, About Us, Our Mission, Karate Instructors, Karate Classes Pakistan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
