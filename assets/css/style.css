@@ -614,11 +614,11 @@ section {
   list-style: none;
   padding: 0;
   margin: 0;
-  color: #ded5d2;
+  color: #fff;
 }
 
 .breadcrumbs ol a {
-  color: #fe825a;
+  color: #fff;
 }
 
 .breadcrumbs ol li+li {
@@ -714,7 +714,7 @@ section {
   margin-bottom: 25px;
   text-align: center;
   border: 1px solid #ebe6e4;
-  height: 220px;
+  height: 245px;
   position: relative;
   background: #faf9f8;
 }
@@ -749,7 +749,7 @@ section {
 }
 
 .services .title a {
-  color: #343a40;
+  color: #15963a;
 }
 
 .services .icon-box:hover .icon {

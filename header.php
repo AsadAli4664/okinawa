@@ -37,9 +37,9 @@
       <nav id="navbar" class="navbar" style="margin: 0px auto;">
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
-          <li class="dropdown"><a href="#"><span>Affiliation</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Affiliations & Membership</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="our-affiliation.php">Our Affiliation</a></li>
+              <li><a href="our-affiliation.php">Our Affiliations</a></li>
               <li><a href="our-affiliates.php">Our Affiliates</a></li>
               <li><a href="join-us.php">Join Us</a></li>
               <!-- <li><a href="#">Procedures</a></li>

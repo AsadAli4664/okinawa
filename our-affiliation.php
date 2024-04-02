@@ -43,10 +43,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Our Affiliation</h2>
+          <h2>Our Affiliations</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Our Affiliation</li>
+            <li>Our Affiliations</li>
           </ol>
         </div>
 
@@ -57,7 +57,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Our <strong>Affiliation</strong></h2>
+          <h2>Our <strong>Affiliations</strong></h2>
           <p>"Join forces with Okinawa Karate, where tradition and excellence unite to forge champions."
 "Elevate your brand by affiliating with Okinawa Karate, a symbol of authentic martial arts mastery."</p>
         </div>

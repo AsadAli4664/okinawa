@@ -23,7 +23,7 @@
           <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="our-affiliates.php">Our Affiliates</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="our-affiliation.php">Our Affiliation</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="our-affiliation.php">Our Affiliations</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="portfolio.php">Gallery</a></li>
         </ul>
       </div>

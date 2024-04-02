@@ -56,46 +56,69 @@
     <section id="services" class="services">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
-          <h2> <strong>Services</strong> we do provide</h2>
-          <p>At OTKUP, we offer a comprehensive range of services tailored to meet the diverse needs of Karate enthusiasts:.</p>
+        <h2> <strong> Our Services</strong></h2>
+          <p>At OTKUP, we offer a comprehensive range of services tailored to meet the diverse needs of Karate enthusiasts</p>
         </div>
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">Multi Style Training:</a></h4>
-              <p class="description">Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. Every style will be taught by the expert of each style separately in different timing and classes.  Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter.</p>
+              <h4 class="title"><a href="">Multi Style Training</a></h4>
+              <p class="description">
+             
+              <ul> 
+                <li>Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. </li>
+           <li>     Every style will be taught by the expert of each style separately in different timing and classes. </li>
+
+           <li>     Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter. </li>
+</ul> </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Customize, Private & Home Coaching: </a></h4>
-              <p class="description"> We offer customized training at your home which is tailor made as you need and requirement. 
-You may become only kumite expert or
-You may become a KATA player or
-You wish to learn karate for self defense or
-You wish to become a fit looking person 
+              <h4 class="title"><a href="">National, international championships & <br> training seminar</a></h4>
+              <p class="description">
+                <ul>
+                  <li>We organize championships at District, Regional & National levels. </li>
+
+<li>We offer the highest achiever to participate at continental & world level of sports Karate championships abroad
+</li>
+    <li>
+We impart our students in international karate training seminars under the renowned world class karate masters
+</li>
+</ul>
                 </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">National & international championships & trending seminar:</a></h4>
-              <p class="description">We organize championships at District, Regional & National levels. 
-We offer the highest achiever to participate at continental & world level of sports Karate championship abroad
-We impart our students in international karate training seminars under the renowned world class karate masters
+              <h4 class="title"><a href="">Customize, Private & Home Coaching </a></h4>
+              <p class="description"> 
+                <ul>
+             <li> We offer customized training at your home which is tailor made as you need and requirement. </li>
+<li>You may become only kumite expert or</li>
+<li>You may become a KATA player or </li>
+<li>You wish to learn karate for self defense or</li>
+<li>You wish to become a fit looking person</li>
+</ul>
+               
                 </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi-brightness-high"></i></div>
-              <h4 class="title"><a href="">Regular Grading and Ranking Systems:</a></h4>
-              <p class="description">Advance your skills and progress through our structured ranking system.
-                We provide regular grading mechanism through foreign senior ranking master.
-                We shall provide globally recognized certifications of each style.
+              <h4 class="title"><a href="">Regular Grading and Ranking Systems</a></h4>
+              <p class="description">
+                <ul>
+                  
+                <li>Advance your skills and progress through our structured ranking system.</li>
+
+              <li>  We provide regular grading mechanism through foreign senior ranking master.</li>
+               <li> We shall provide globally recognized certifications of each style. </li>
+</ul>
                 </p>
             </div>
           </div>

@@ -99,11 +99,11 @@
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>Unite all Okinawan Karate Styles in Pakistan<br>  <span>Welcome to the OTKUP!</span> </h3>
-            <p> We are in the field of Karate since 1993. We started our journey from ShotoKan Karate as it is widely practicing style in Pakistan. After a quite few years some experienced instructors of Shito-Ryu and Gujo-Ryu join us and we started our journey together in 1996.</p>
+            <h3>Unite All Okinawan Karate Styles In Pakistan<br>  <span>Welcome to the OTKUP</span> </h3>
+            <p> We are in the field of Karate since 1993. We started our journey from ShotoKan Karate as it is widely practicing style in Pakistan. After a quite few years some experienced instructors of Shito-Ryu and Gujo-Ryu join us and we started our journey together in 1996 for those who wish to learn different karate styles with their own significant choice. We aims to promote the art of karate in discriminately to grow together with unbiased approach.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Read More!</a>
+            <a class="cta-btn align-middle" href="about.php">Read More!</a>
           </div>
         </div>
 
@@ -116,21 +116,21 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up">
+            <div class="icon-box" data-aos="fade-up" style="height: 185px;">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
               <h4 class="title"><a href="">Mission</a></h4>
               <p class="description">Our mission at the Okinawa Traditional Karate-Do Union of Pakistan (OTKUP) is to foster unity among practitioners of all Okinawan Karate styles in Pakistan. </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100" style="height: 185px;">
               <div class="icon"><i class="bi bi-eye"></i></div>
               <h4 class="title"><a href="">Vision</a></h4>
               <p class="description">At OTKUP, we are committed to upholding the traditional principles and ethics of all kinds of Karate & open to everyone</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200" style="height: 185px;">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
               <h4 class="title"><a href="">Values</a></h4>
               <p class="description">As part of our commitment to global unity, we maintain affiliations with leading international Karate organizations.</p>
@@ -148,48 +148,69 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2> <strong> Our Services</strong></h2>
-          <p>At OTKUP, we offer a comprehensive range of services tailored to meet the diverse needs of Karate enthusiasts:.</p>
+          <p>At OTKUP, we offer a comprehensive range of services tailored to meet the diverse needs of Karate enthusiasts</p>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6">
-            <div class="icon-box" data-aos="fade-up" style="height:333px">
+            <div class="icon-box" data-aos="fade-up" style="height: 410px;">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">Multi Style Training:</a></h4>
-              <p class="description">Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. Every style will be taught by the expert of each style separately in different timing and classes.  Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter.  </p>
+              <h4 class="title"><a href="">Multi Style Training</a></h4>
+              <p class="description">
+             
+              <ul> 
+                <li>Explore various Okinawan styles including Shotokan Goju-Ryu, Shito-Ryo and more. </li>
+           <li>     Every style will be taught by the expert of each style separately in different timing and classes. </li>
+
+           <li>     Specific interest is our priority whether student want to become Kummitte athlete or Kata presenter. </li>
+</ul> </p>
             </div>
           </div>
        
           <div class="col-lg-3 col-md-6">
-            <div class="icon-box" style="height:333px" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" style="height: 410px;" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">National & international championships & trending seminar:</a></h4>
-              <p class="description">We organize championships at District, Regional & National levels. 
-We offer the highest achiever to participate at continental & world level of sports Karate championship abroad
+              <h4 class="title"><a href="">National, international championships & <br> training seminar</a></h4>
+              <p class="description">
+                <ul>
+                  <li>We organize championships at District, Regional & National levels. </li>
+
+<li>We offer the highest achiever to participate at continental & world level of sports Karate championships abroad
+</li>
+    <li>
 We impart our students in international karate training seminars under the renowned world class karate masters
+</li>
+</ul>
                 </p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
-            <div class="icon-box" style="height:333px" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box" style="height: 410px;" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Customize, Private & Home Coaching: </a></h4>
+              <h4 class="title"><a href="">Customize, Private & Home Coaching </a></h4>
               <p class="description"> 
-              We offer customized training at your home which is tailor made as you need and requirement. 
-You may become only kumite expert or
-You may become a KATA player or
-You wish to learn karate for self defense or
-You wish to become a fit looking person
+                <ul>
+             <li> We offer customized training at your home which is tailor made as you need and requirement. </li>
+<li>You may become only kumite expert or</li>
+<li>You may become a KATA player or </li>
+<li>You wish to learn karate for self defense or</li>
+<li>You wish to become a fit looking person</li>
+</ul>
                
                 </p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
-            <div class="icon-box" style="height:333px" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" style="height: 410px;" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi-brightness-high"></i></div>
-              <h4 class="title"><a href="">Regular Grading and Ranking Systems:</a></h4>
-              <p class="description">Advance your skills and progress through our structured ranking system.
-                We provide regular grading mechanism through foreign senior ranking master.
-                We shall provide globally recognized certifications of each style. 
+              <h4 class="title"><a href="">Regular Grading and Ranking Systems</a></h4>
+              <p class="description">
+                <ul>
+                  
+                <li>Advance your skills and progress through our structured ranking system.</li>
+
+              <li>  We provide regular grading mechanism through foreign senior ranking master.</li>
+               <li> We shall provide globally recognized certifications of each style. </li>
+</ul>
                 </p>
             </div>
           </div>
