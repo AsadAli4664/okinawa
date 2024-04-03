@@ -41,10 +41,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>AFFILIATION & MEMBERSHIPS</h2>
+          <h2>AFFILIATIONS & MEMBERSHIPS</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>AFFILIATION & MEMBERSHIPS</li>
+            <li>AFFILIATIONS & MEMBERSHIPS</li>
           </ol>
         </div>
 

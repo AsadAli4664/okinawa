@@ -33,6 +33,16 @@ h6 {
   font-family: "Muli", sans-serif;
 }
 
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Muli", sans-serif;
+  color:#15963a;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -582,7 +592,7 @@ section {
   font-weight: 300;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #65534c;
+  color: #15963a;
 }
 
 .section-title h2 strong {
@@ -661,7 +671,7 @@ section {
 }
 
 .cta h3 span {
-  color: #f03c02;
+  color: #15963a;
 }
 
 .cta p {
@@ -1215,7 +1225,7 @@ section {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #2b2320;
+  color: #15963a;
 }
 
 .pricing h4 {
@@ -1437,7 +1447,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #2b2320;
+  color: #15963a;
 }
 
 .contact .info p {
@@ -1569,7 +1579,7 @@ section {
 }
 
 .blog .entry .entry-title a {
-  color: #2b2320;
+  color: #15963a;
   transition: 0.3s;
 }
 

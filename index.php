@@ -35,7 +35,23 @@
 
   <?php include('header.php'); ?>
 
-  
+   <!-- ======= Breadcrumbs ======= -->
+ <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Home</h2>
+          <ol>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Okinawa Karate in Pakistan</li>
+          </ol>
+           
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
